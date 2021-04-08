@@ -1,7 +1,5 @@
 # keras-brain-tumor-scan
 
-# linear-regression-tensorflow
-
 ![brain scan image](https://images.pexels.com/photos/4226264/pexels-photo-4226264.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
 
 Add description
