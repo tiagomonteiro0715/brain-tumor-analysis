@@ -24,7 +24,7 @@ Create and activate the virtual enviroment.The python version already needs to b
 I am using this python version because at the moment this python version is  compatible with tensorflow and keras
 
 ```
-pipenv install --python 3.7
+pipenv install --python 3.7.8
 ```
 
 Install necessary modules
