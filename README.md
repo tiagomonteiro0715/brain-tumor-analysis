@@ -16,12 +16,12 @@ Upgrade pip and install [pipenv](https://pipenv.pypa.io/en/latest/)
 ```
 pip install --upgrade --user pip
 
-pip install pipenv pyenv
+pip install pipenv
 ```
 
 Create and activate the virtual enviroment.The python version already needs to be installed in your pc
 
-I am using this python version because at the time that one of the versions thta is both compatible with tensorflow and keras
+I am using this python version because at the moment this python version is  compatible with tensorflow and keras
 
 ```
 pipenv install --python 3.7
