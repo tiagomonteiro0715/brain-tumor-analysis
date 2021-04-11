@@ -19,13 +19,9 @@ pip install --upgrade --user pip
 pip install pipenv pyenv
 ```
 
-Create and activate a virtual enviroment
+Create and activate the virtual enviroment.The python version already needs to be installed in your pc
 
-```
-pipenv shell
-```
-
-Set the python version for 3.7, notice that the python version already needs to be installed in your pc
+I am using this python version because at the time that one of the versions thta is both compatible with tensorflow and keras
 
 ```
 pipenv install --python 3.7
@@ -34,7 +30,7 @@ pipenv install --python 3.7
 Install necessary modules
 
 ```
-pipenv install tensorflow==2.4 matplotlib==3.3 keras==2.4
+pipenv install tensorflow==2.4.1 matplotlib==3.3 keras==2.4
 ```
 
 Install modules to make sure the code runs on a jupyter notebook
