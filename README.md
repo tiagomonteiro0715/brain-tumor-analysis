@@ -39,6 +39,12 @@ Install modules to make sure the code runs on a jupyter notebook
 pipenv install ipykernel
 python -m ipykernel install --user --name ENVNAME --display-name "Python (whatever you want to call it)"
 ```
+After all this, start jupyter notebook
+
+```
+jupyter notebook
+```
+
 -----
 
 Started on 08/04/2021
