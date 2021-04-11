@@ -16,7 +16,7 @@ Upgrade pip and install [pipenv](https://pipenv.pypa.io/en/latest/)
 ```
 pip install --upgrade --user pip
 
-pip install pipenv
+pip install pipenv pyenv
 ```
 
 Create and activate a virtual enviroment
@@ -25,10 +25,16 @@ Create and activate a virtual enviroment
 pipenv shell
 ```
 
+Set the python version for 3.7, notice that the python version already needs to be installed in your pc
+
+```
+pipenv install --python 3.7
+```
+
 Install necessary modules
 
 ```
-pipenv install pandas==1.2.3 numpy==1.2 tensorflow==2.4 matplotlib==3.3 sklearn==0.2.2
+pipenv install tensorflow==2.4 matplotlib==3.3 keras==2.4
 ```
 
 Install modules to make sure the code runs on a jupyter notebook
