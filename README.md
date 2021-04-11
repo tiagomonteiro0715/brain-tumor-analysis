@@ -16,7 +16,7 @@ Upgrade pip and install [pipenv](https://pipenv.pypa.io/en/latest/)
 ```
 pip install --upgrade --user pip
 
-pip install pipenv
+pip install --upgrade pipenv
 ```
 
 Create and activate the virtual enviroment.The python version already needs to be installed in your pc
