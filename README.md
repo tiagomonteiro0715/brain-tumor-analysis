@@ -2,12 +2,15 @@
 
 ![brain scan image](https://images.pexels.com/photos/4226264/pexels-photo-4226264.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
 
-Add description
+-----
 
-dataset: https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
+Add description
 
 -----
 
+Dataset used: https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
+
+-----
 
 Install dependencies:
 
@@ -51,6 +54,6 @@ jupyter notebook
 
 Started on 08/04/2021
 
-Ended
+Ended 17/04/2021
 
 Archived
