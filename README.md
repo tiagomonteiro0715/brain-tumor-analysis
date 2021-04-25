@@ -3,6 +3,7 @@
 ![brain scan image](https://images.pexels.com/photos/4226264/pexels-photo-4226264.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
 
 -----
+https://ai.plainenglish.io/detecting-brain-tumors-from-mri-scans-using-a-cnn-ae3c2913bde7
 
 Add description
 
