@@ -1,6 +1,6 @@
 # keras-brain-tumor-scan
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![brain scan image](https://images.pexels.com/photos/4226264/pexels-photo-4226264.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
 
