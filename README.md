@@ -1,8 +1,10 @@
 # keras-brain-tumor-scan
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=tiagomonteiro0715&show_icons=true)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+
 
 ![brain scan image](https://images.pexels.com/photos/4226264/pexels-photo-4226264.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
+
 
 -----
 The motivation behind this project was to gain a better understanding of tensorflow 2.4 and to serve as an example for future projects of the same tyope. 
