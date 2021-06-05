@@ -1,7 +1,6 @@
 # keras-brain-tumor-scan
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
 ![brain scan image](https://images.pexels.com/photos/4226264/pexels-photo-4226264.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
 
 -----
