@@ -7,12 +7,11 @@ The motivation behind this project was to gain a better understanding of tensorf
 
 Essencially, it takes a dataset of images builds a model that classifies brain images with and without cancer. I used tensorflow because it was, in my pint of view, the best machine lerning framework for programming enthusiatis in this subfield.
 
-Not only I lerned alot about this framework, but also learned in a pratical way machine lerning.
-
-This projects standout by the code being writeen in a way that is easy to understand. And also creates a model that is easy and intuitive  to use. 
+Not only I lerned alot about this framework, but also learned in a pratical way machine lerning. This projects standout by the code being writeen in a way that is easy to understand. And also creates a model that is easy and intuitive  to use. 
 
 
-add an table of contents
+add an table of contents 333 use thesauros to improve the writing
+
 
 -----
 
