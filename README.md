@@ -11,6 +11,9 @@ Not only I lerned alot about this framework, but also learned in a pratical way 
 
 This projects standout by the code being writeen in a way that is easy to understand. And also creates a model that is easy and intuitive  to use. 
 
+
+add an table of contents
+
 -----
 
 code inspired from: https://ai.plainenglish.io/detecting-brain-tumors-from-mri-scans-using-a-cnn-ae3c2913bde7
