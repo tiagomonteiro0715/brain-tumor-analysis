@@ -25,8 +25,6 @@ Dataset used: https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mr
 
 Install dependencies:
 
-Upgrade pip and install [pipenv](https://pipenv.pypa.io/en/latest/)
-
 ```
 pip install --upgrade --user pip
 
